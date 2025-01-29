@@ -12,6 +12,7 @@
   - every player can hold, this will
       - add the current number to the total amount
       - pass the turn to the next player
+        
    ![image](https://github.com/user-attachments/assets/f4fbd5fc-e126-4656-b204-567a949dc063)
 
 
